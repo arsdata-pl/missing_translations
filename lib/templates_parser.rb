@@ -18,7 +18,7 @@ class TemplatesParser
   private
 
   def locale
-    'en'.freeze
+    'pl'.freeze
   end
 
   def line_keys(line, context)
